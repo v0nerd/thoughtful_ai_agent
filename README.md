@@ -15,7 +15,13 @@ This project is a simple customer support AI Agent for Thoughtful AI. It uses pr
    cd thoughtful-ai-agent
    ```
 
-2. Start the Streamlit UI
+2. Install the dependencies
+   `pip install -r requirements.txt`
+
+3. Start the Streamlit UI
    ```bash
    streamlit run app.py
    ```
+
+4. Open the app in your browser
+   `http://localhost:8501`
