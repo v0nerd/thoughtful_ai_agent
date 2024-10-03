@@ -13,3 +13,9 @@ This project is a simple customer support AI Agent for Thoughtful AI. It uses pr
    ```bash
    git clone https://github.com/vontario-taylor-1/thoughtful_ai_agent.git
    cd thoughtful-ai-agent
+   ```
+
+2. Start the Streamlit UI
+   ```bash
+   streamlit run app.py
+   ```
