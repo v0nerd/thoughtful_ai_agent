@@ -11,7 +11,7 @@ This project is a simple customer support AI Agent for Thoughtful AI. It uses pr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vontario-taylor-1/thoughtful_ai_agent.git
+   git clone https://github.com/v0nerd/thoughtful_ai_agent.git
    cd thoughtful-ai-agent
    ```
 
